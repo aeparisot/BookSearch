@@ -1,0 +1,11 @@
+
+1. Scrap Goodreads data
+- ratings
+- genres
+- author
+- key terms mentioned in review? 
+	- how will i cut out character names //
+	  take in list of names, if word top 5 && in names
+	  cut out name
+
+
